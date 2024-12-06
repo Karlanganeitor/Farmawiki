@@ -1,8 +1,0 @@
-Conexión a la base de datos:
-
-
-Punto de enlace: farmawiki.c5yew0gcemb0.sa-east-1.rds.amazonaws.com
-user: admin
-password: adminadmin
-database: FarmawikiBD
-port: 3306 
